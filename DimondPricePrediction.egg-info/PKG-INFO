@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: DimondPricePrediction
+Version: 0.0.1
+Author: parth soni
+Author-email: parthsoni08072000@gmail.com
+Requires-Dist: scikit-learn
+Requires-Dist: pandas
+Requires-Dist: numpy
